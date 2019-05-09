@@ -10,5 +10,5 @@
 ### GitHub Demonstrasyon yo
 
 - [Egzanp PWA](https://github.com/wspecs/pwa-egzanp)
-- [Eleman Entènet](https://github.com/wspecs/eleman-entènèt)
+- [Eleman Entènet](https://github.com/wspecs/eleman-entenet)
 
